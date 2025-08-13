@@ -8,7 +8,7 @@ def load_onet_level_importance(onet_dir: str):
         - Abilities.xlsx (for ability ID mapping)
         - Skills.xlsx (for skill ID mapping, if needed)
         - Abilities to Work Context.xlsx (optional if crosswalk needed)
-        - Occupation Data.xlsx (SOC mapping)
+        - Occupation Data.xlsx (SOC mappiSng)
         - Level Scale Anchors.xlsx (optional reference)
         - Task Ratings.xlsx (if extending with tasks)
     """
